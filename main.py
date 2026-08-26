@@ -7,8 +7,6 @@ History:
 Program Creation: Febuary 27, 2024
 """
 
-#Template 
-
 # ============== Image Sources ==============
 """
 purple banana image source: https://joke-battles.fandom.com/wiki/Urple_Banana?file=Urplebanana.jpg
